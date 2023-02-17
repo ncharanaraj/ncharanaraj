@@ -22,10 +22,9 @@ As a motivated and skilled front-end developer, with a passion for creating user
 ## 🔭 I'm currently working on
 
 - My projects
-- little-shopping-cart (working..!)
-- little-media 📺 [Movies and TV Series Searching Web App] (Working on it soon...)
-- My first blog
-- My CSS skill
+- little-media 📺 [Movies and TV Series Searching Web App] (Working..!)
+- logic building
+- Next blog - 5 Surprising Facts You Didn't Know About React: A Guide for Web Developers
 
 ## 🌱 I'm currently learning
 
@@ -59,13 +58,10 @@ As a motivated and skilled front-end developer, with a passion for creating user
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-Coming Soon...!
-<!--
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
--->
+- [Maximizing User Experience: A Comprehensive Guide to Responsive Design Best Practices](https://medium.com/@ncharanaraj/maximizing-user-experience-a-comprehensive-guide-to-responsive-design-best-practices-26a68be694e1)
+- [10 Essential Tips for Becoming a Successful Junior JavaScript Developer](https://medium.com/@ncharanaraj/10-essential-tips-for-becoming-a-successful-junior-javascript-developer-1e16164725b3)
+- [Cooming soon...]()
+
 
 ## 📈 GitHub Stats 
 
