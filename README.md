@@ -67,8 +67,8 @@ As a motivated and skilled front-end developer, with a passion for creating user
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ncharanaraj.ncharanaraj)](https://github.com/ncharanaraj)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=ncharanaraj)](https://github.com/ncharanaraj)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncharanaraj&layout=compact)](https://github.com/ncharanaraj)
+[![github stats](https://github-readme-stats.vercel.app/api?username=ncharanaraj)](https://github.com/ncharanaraj) <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncharanaraj&layout=compact)](https://github.com/ncharanaraj) -->
 
 
 
