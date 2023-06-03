@@ -4,12 +4,15 @@
 <a href="https://instagram.com/itscharanraj"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Charanaraj N | Instagram" width="21px"/></a>
 <a href="https://medium.com/@ncharanaraj"><img align="right" src="https://user-images.githubusercontent.com/43924299/218098828-4922c35f-d9bb-4436-b889-19b7d5b9090d.png" alt="Charanaraj N | Medium" width="21px"/></a>
 <a href="https://www.codewars.com/users/ncharanaraj"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Charanaraj N | LinkedIn" width="21px"/></a>
-<a href="https://www.codewars.com/users/ncharanaraj"><img align="right" src="https://www.codewars.com/users/ncharanaraj/badges/small" alt="Charanaraj N | Codewars"/></a>
+<a href='https://cssbattle.dev/player/ncharanaraj'><img align='right' src='https://github.com/ncharanaraj/ncharanaraj/assets/43924299/25670884-ae31-4d5a-9b55-f2bc375e38d4' alt='Charanaraj N | CSS Battle' width='28px'/></a>
+<a href="https://www.codewars.com/users/ncharanaraj"><img align="right" src="https://www.codewars.com/users/ncharanaraj/badges/micro" alt="Charanaraj N | Codewars"/></a>
 </div>
+
+<br/>
 
 ## Hi!, my name is <a href="https://ncharanaraj.netlify.app/" target="_blank" rel="noreferrer">Charanaraj N</a> 👋
 
-I'm a skilled developer experienced in  **HTML**, **CSS**, **JavaScript**, and **React**. I'm actively learning and building projects, and I'm eager to find new opportunities to work as a Front-end Web Developer. Hire me now!
+I'm a skilled developer experienced in  **HTML**, **CSS**, **JavaScript**, and **React**. I'm actively learning and building projects, and I'm eager to find new opportunities to work as a Front-end Web Developer. <code> Hire me now! </code>
 
 #### I'm really good at :
 
