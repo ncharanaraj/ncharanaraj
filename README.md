@@ -1,4 +1,4 @@
-[![github_banner](https://user-images.githubusercontent.com/43924299/218070852-3204c02a-6a12-4a14-b3f1-fe684ba46ff5.png)](https://ncharanaraj.netlify.app/)
+<!-- [![github_banner](https://user-images.githubusercontent.com/43924299/218070852-3204c02a-6a12-4a14-b3f1-fe684ba46ff5.png)](https://ncharanaraj.netlify.app/) -->
 
 <div align="end">
 <a href="https://instagram.com/itscharanraj"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Charanaraj N | Instagram" width="21px"/></a>
@@ -6,8 +6,6 @@
 <a href="https://www.codewars.com/users/ncharanaraj"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Charanaraj N | LinkedIn" width="21px"/></a>
 <a href="https://www.codewars.com/users/ncharanaraj"><img align="right" src="https://www.codewars.com/users/ncharanaraj/badges/small" alt="Charanaraj N | Codewars"/></a>
 </div>
-
-<br/>
 
 ## Hi!, my name is <a href="https://ncharanaraj.netlify.app/" target="_blank" rel="noreferrer">Charanaraj N</a> 👋
 
