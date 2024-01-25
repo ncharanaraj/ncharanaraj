@@ -1,24 +1,25 @@
 <!-- [![github_banner](https://user-images.githubusercontent.com/43924299/218070852-3204c02a-6a12-4a14-b3f1-fe684ba46ff5.png)](https://ncharanaraj.netlify.app/) -->
-
+<!--
 <div align="end">
-<!-- <a href="https://instagram.com/itscharanraj"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Charanaraj N | Instagram" width="21px"/></a> -->
-<!-- <a href="https://medium.com/@ncharanaraj"><img align="right" src="https://user-images.githubusercontent.com/43924299/218098828-4922c35f-d9bb-4436-b889-19b7d5b9090d.png" alt="Charanaraj N | Medium" width="21px"/></a> -->
+<a href="https://instagram.com/itscharanraj"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Charanaraj N | Instagram" width="21px"/></a>
+<a href="https://medium.com/@ncharanaraj"><img align="right" src="https://user-images.githubusercontent.com/43924299/218098828-4922c35f-d9bb-4436-b889-19b7d5b9090d.png" alt="Charanaraj N | Medium" width="21px"/></a>
 <a href="https://www.codewars.com/users/ncharanaraj"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Charanaraj N | LinkedIn" width="21px"/></a>
-<!-- <a href='https://cssbattle.dev/player/ncharanaraj'><img align='right' src='https://github.com/ncharanaraj/ncharanaraj/assets/43924299/25670884-ae31-4d5a-9b55-f2bc375e38d4' alt='Charanaraj N | CSS Battle' width='28px'/></a> -->
+<a href='https://cssbattle.dev/player/ncharanaraj'><img align='right' src='https://github.com/ncharanaraj/ncharanaraj/assets/43924299/25670884-ae31-4d5a-9b55-f2bc375e38d4' alt='Charanaraj N | CSS Battle' width='28px'/></a>
 <a href="https://www.codewars.com/users/ncharanaraj"><img align="right" src="https://www.codewars.com/users/ncharanaraj/badges/micro" alt="Charanaraj N | Codewars"/></a>
 </div>
 
 <br/>
 
-## Hi!, my name is <a href="https://ncharanaraj.netlify.app/" target="_blank" rel="noreferrer">Charanaraj N</a> 👋
+## Hi!, my name is <a href="https://ncharanaraj.netlify.app/" target="_blank" rel="noreferrer">Charanaraj N</a> 👋 -->
+## About:
 
-As a web developer with a passion for open source, I contribute to Requestly, a browser extension that helps users modify network requests. I have merged multiple issues related to UI, functionality, and bugs, and I am currently working on enhancing the rule editor feature. I collaborate with other developers and share my knowledge and insights through LinkedIn and GitHub.
+As a **frontend developer** with a passion for open source, I contribute to Requestly, a popular developer tool for frontend developers & QAs to debug web and mobile applications. I have merged multiple issues related to UI, functionality, and bugs, and I am currently working on <code>fixed rules as html links #770</code>. I collaborate with other developers and share my knowledge and insights through LinkedIn.
 
 I also have a strong background in frontend development, having designed and developed the frontend of a large-scale ecommerce platform from scratch as a Frontend Developer at Sutradhar Project Consultancy Pvt. Ltd. I used React, Redux, and Formik to create dynamic, responsive, and user-friendly interfaces, and I increased user engagement by 15% through multi-language support and optimized loading speed by 20% using code splitting techniques. I have a Bachelor of Engineering degree in Computer Science and Engineering from Alva's Institute of Engineering and Technology, where I gained solid knowledge of JavaScript, HTML, CSS, and web development. 
 
 My goal is to keep learning and improving my skills as a frontend developer, and to create innovative and impactful solutions that enhance user experience and satisfaction.
 
-#### Key Skills:
+## Key Skills:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
